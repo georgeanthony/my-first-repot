@@ -1,0 +1,126 @@
+body{
+    font-family: 'Lato', sans-serif;
+}
+/* start of nav-bar <!important*/
+.nav-bar{
+    background-color: red;
+    color: #fff;
+    height:75px;
+    width: 100%;
+    position: fixed;
+    top: 0px;
+    left: 0px;
+}
+
+.nav-item{
+    float: right;
+}
+.list-item{
+    list-style-type: none;
+    display: inline-block;
+    margin-right: 15px;
+}
+.banner{
+    margin-top: 75px;
+    width: 100%;
+    height: 400px;
+    /*background-color: blue;*/
+    background-image: url('../img/deadpool-banner.png');
+    background-position: center center;
+}
+  /*Start banner*/
+.banner-text{
+     background-color: rgba(0,0,0,0.5);
+     color: #fff;
+     display: inline-block;
+     width: 300px;
+     text-align: center;
+     margin-left: 40%;
+     margin-top: 150px;
+     font-family: cursive;
+}
+.banner-text {
+    
+    background-color: rgba(0,0,0,0.5;
+    width: 400px;
+    height: 75px;
+    display: inline-block;
+    /*text-align: center;*/
+    font-family: cursive;
+    margin-left: 400px;
+    margin-right: 200px;
+    
+}
+.banner-text p{
+        color: #fff;
+        font-size: 32px;
+        font-family: cursive;
+        
+}
+
+/*End of Banner*/
+
+/*Footer Styles*/
+.footer{
+    border: 2px dashed blue;
+    width: 100px;
+    height: 200px;
+    clear: both;
+}
+  .footer-col-1{
+    width: 33px;
+    height: 100px;
+    border: 1px dashed block;
+    /*hight: 10px;*/
+    display: inline-block;
+      }
+  
+  .footer-btn{
+      background-color: salmon;
+      color: #fff;
+    width: 120px;
+    height: 50px;
+    font-size: 20px;
+    border-radius: 2px;
+    margin-left: 40px;
+    margin-top: 300px;
+  
+}
+.fab{
+        font-size: 2em;
+        margin:10px;
+        height:20px;
+        width:20px;
+        
+}
+iframe[Attributes Style] [
+       width:
+        margin:10px;
+        height:20px;
+        width:20px;
+        display: inline-block;
+]
+element.stye {
+}
+.body-headline{
+    color:#7C9C5; /*teal*/
+    background-color: #3c5798;
+    /*sky blue*/
+    width:300px;
+    text-align:center;
+    marin: 20px auto;
+}
+.column{
+        boarder: 2px solid #3c5798;
+         width:30px;
+         height:555px;
+         padding: 5px
+         margin: 12px;
+         float left;
+         text-align: center;
+         
+}
+    p
+}
+
+/*End of Footer Styles*/
